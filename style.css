@@ -165,3 +165,9 @@ button:hover{
         margin-right: 30px;
     }
 }
+button.text:active,
+button.text:hover,
+button.text {
+  text-decoration: none;
+  color: black;
+}

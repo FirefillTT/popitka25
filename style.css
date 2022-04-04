@@ -67,6 +67,7 @@ li{
    margin-bottom: 20px;
     background: linear-gradient(180deg, rgba(16,38,0,1) 0%, rgba(107,211,26,1) 41%);
     border-radius: 20px;
+    text-decoration:none;
     transition: 1s;
 
 }
